@@ -1,0 +1,10 @@
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore raw data if it's too large (over 100MB)
+# data/raw/
